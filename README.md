@@ -1,4 +1,4 @@
-Puedes observar esta practica en netlify: [Clic Aqui!](https://changemyproperty.netlify.app/)
+Puedes observar esta practica en netlify: [Clic Aqui!](https://contadornbasd.netlify.app/)
 
 # ProyectoAngular1
 
